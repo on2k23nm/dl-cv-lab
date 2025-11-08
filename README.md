@@ -8,6 +8,6 @@ I use this space to:
 - Build practical vision mini-projects and utilities over time
 
 Most work lives in simple notebooks and scripts, updated as I learn.
-Tools: Python, PyTorch, Torchvision, Jupyter / VS Code.
+Tools: C++17, Python, PyTorch, Torchvision, Jupyter / VS Code.
 
 Feel free to read, run, or adapt anything that’s useful.
